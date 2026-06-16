@@ -8,3 +8,5 @@ Criador: Paulo Marcos Figueiredo de Andrade
 email: pandrade@uva.br
 
 ------ Coloque seu nome aqui embaixo.
+
+1° - Maria Luiza Benevides
