@@ -13,3 +13,4 @@ email: pandrade@uva.br
 2° - Felipe Carriello de Freitas Leardini
 3° - Pedro Tavernard Wrencher Batista
 4° - Alexsandro da Silva Almeida Junior
+5° - Thiago de Oliveira Soares
