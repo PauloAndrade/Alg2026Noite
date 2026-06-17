@@ -1,19 +1,23 @@
-# Alg2026Noite
-Exemplo de repositório da disciplina Algoritmos 2026
+# Algoritmos e Lab. de Programação 2026
 
-16/06/26
+Repositório de exemplo da disciplina **Algoritmos 2026**.
 
+**Data:** 16/06/2026
 
-Criador: Paulo Marcos Figueiredo de Andrade
-email: pandrade@uva.br
------- Coloque seu nome aqui embaixo.
+## Professor
 
-1° - Maria Luiza Benevides 2° - Felipe Carriello de Freitas Leardini -Alexsandro da Silva Almeida Junior -  Leonan Costa - pedro- matheus
+**Paulo Marcos Figueiredo de Andrade**
+📧 [pandrade@uva.br](mailto:pandrade@uva.br)
 
------- Coloque seu nome aqui embaixo.
+---
 
-1° - Maria Luiza Benevides
-2° - Felipe Carriello de Freitas Leardini
-3° - Pedro Tavernard Wrencher Batista
-4° - Alexsandro da Silva Almeida Junior
-5° - Thiago de Oliveira Soares
+## Participantes
+
+1° Maria Luiza Benevides
+2° Felipe Carriello de Freitas Leardini
+3° Pedro Tavernard Wrencher Batista
+4° Alexsandro da Silva Almeida Junior
+5° Thiago de Oliveira Soares
+6° Leonan Costa
+7° Pedro
+8° Matheus
